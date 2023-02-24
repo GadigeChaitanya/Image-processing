@@ -44,6 +44,5 @@ for mult_image in $mult_path/*.TIF; do
     pan_image=$pan_path/$pan_filename
     result_image=$PATH_TO_OUTPUT$filename
 
-#    gdal_pansharpen.py -nodata 0 $WV3_W $pan_image $mult_image $result_image
-    gdal_pansharpen.py -nodata 0 $pan_image $mult_image $result_image
+    gdal_pansharpen.py -nodata 0 $WV3_W $pan_image $mult_image $result_image
 done
