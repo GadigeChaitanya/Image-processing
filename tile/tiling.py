@@ -1,6 +1,5 @@
 import os
 import gdal
-import osr
 import logging
 import glob
 import shapefile
