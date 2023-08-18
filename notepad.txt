@@ -1,11 +1,1 @@
-- Fiona Showing Installed (Commented)
-- Numba Showing Installed (commented)
-- 
-
-
-
-Hi Team , 
-as yeterday they assigned me the DPG project .
-I have gone through the documentation and installed the required packages..
-
-as of now no blockers. 
+fuck u
